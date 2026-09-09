@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="04_While.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="04_Whiles.cpp">
+    <ClCompile Include="04_Whiless.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
